@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Nam 3\\LTW\\Baitap03\\Baitap03.csproj": {}
+    "D:\\Nam 3\\LTW\\Git Push\\asp_web\\Baitap03\\Baitap03.csproj": {}
   },
   "projects": {
-    "D:\\Nam 3\\LTW\\Baitap03\\Baitap03.csproj": {
+    "D:\\Nam 3\\LTW\\Git Push\\asp_web\\Baitap03\\Baitap03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Nam 3\\LTW\\Baitap03\\Baitap03.csproj",
+        "projectUniqueName": "D:\\Nam 3\\LTW\\Git Push\\asp_web\\Baitap03\\Baitap03.csproj",
         "projectName": "Baitap03",
-        "projectPath": "D:\\Nam 3\\LTW\\Baitap03\\Baitap03.csproj",
+        "projectPath": "D:\\Nam 3\\LTW\\Git Push\\asp_web\\Baitap03\\Baitap03.csproj",
         "packagesPath": "C:\\Users\\tranh\\.nuget\\packages\\",
-        "outputPath": "D:\\Nam 3\\LTW\\Baitap03\\obj\\",
+        "outputPath": "D:\\Nam 3\\LTW\\Git Push\\asp_web\\Baitap03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tranh\\AppData\\Roaming\\NuGet\\NuGet.Config",
