@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" type="text/css" href="~/css/styles.css" />
+</head>
+<body>
+    <header>
+        <h2>BÀI TẬP</h2>
+    </header>
+
+    <section>
+        <nav>
+            <ul>
+                <li><a href="/profile">Profile</a></li>
+                <li class="profile-info">@ViewBag.HoTen - @ViewBag.MSSV</li>
+            </ul>
+        </nav>
+        <article>
+            <p>-----------------------</p>
+            <a href="/profile">
+                <img src="~/image/Huy.jpg" style="width:120px;" />
+            </a>
+            <p>Giới thiệu bản thân</p>
+        </article>
+    </section>
+
+    <footer>
+        <p>Copyright &copy; @ViewBag.HoTen - @ViewBag.Nam</p>
+    </footer>
+</body>
+</html>
