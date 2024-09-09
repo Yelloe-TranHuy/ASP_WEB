@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Nam 3\\LTW\\BTVN02\\BTVN02.csproj": {}
+    "D:\\Nam 3\\Git Push\\asp_web\\BTVN02\\BTVN02.csproj": {}
   },
   "projects": {
-    "D:\\Nam 3\\LTW\\BTVN02\\BTVN02.csproj": {
+    "D:\\Nam 3\\Git Push\\asp_web\\BTVN02\\BTVN02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Nam 3\\LTW\\BTVN02\\BTVN02.csproj",
+        "projectUniqueName": "D:\\Nam 3\\Git Push\\asp_web\\BTVN02\\BTVN02.csproj",
         "projectName": "BTVN02",
-        "projectPath": "D:\\Nam 3\\LTW\\BTVN02\\BTVN02.csproj",
+        "projectPath": "D:\\Nam 3\\Git Push\\asp_web\\BTVN02\\BTVN02.csproj",
         "packagesPath": "C:\\Users\\tranh\\.nuget\\packages\\",
-        "outputPath": "D:\\Nam 3\\LTW\\BTVN02\\obj\\",
+        "outputPath": "D:\\Nam 3\\Git Push\\asp_web\\BTVN02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tranh\\AppData\\Roaming\\NuGet\\NuGet.Config",
