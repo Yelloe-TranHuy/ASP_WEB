@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using projectA.Data;
 
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
 
 // Add services to the container.
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
@@ -37,7 +38,7 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{area=Customer}/{controller=Home}/{action=Index}/{id?}");
 app.MapRazorPages();
 
 app.Run();

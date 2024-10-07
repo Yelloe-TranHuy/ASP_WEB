@@ -3,19 +3,15 @@
 }
 
 <div class="container">
-    <form asp-action="Search" method="get">
-        <input type="text" name="searchString" placeholder="Nhập thể loại cần tìm..."value="@ViewBag.SearchString"/>
-        <input type="submit" value="Tìm Kiếm"/>
-    </form>
     <table class="table">
         <thead>
         <th>Tên Thể loại</th>
         <th>Ngày tạo</th>
+        <th>Chức năng</th>
         </thead>
-
-        @foreach (var item in ViewBag.TheLoai)
-        {
-            <tbody>
+        <tbody>
+            @foreach (var item in ViewBag.TheLoai)
+            {
                 <tr>
                     <td width="30%">
                         @item.Name
@@ -32,9 +28,8 @@
                         </a>
                     </td>
                 </tr>
-            </tbody>
-        }
-
+            }
+        </tbody>
     </table>
     <a asp-controller="TheLoai" asp-action="Create" class="btn btn-primary">Thêm mới</a>
 </div>

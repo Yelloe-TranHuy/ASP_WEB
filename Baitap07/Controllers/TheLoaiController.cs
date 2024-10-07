@@ -6,7 +6,6 @@ namespace Baitap07.Controllers
 {
     public class TheLoaiController : Controller
     {
-
         private readonly ApplicationDbContext _db;
         public TheLoaiController(ApplicationDbContext db)
         {
@@ -14,9 +13,8 @@ namespace Baitap07.Controllers
         }
         public IActionResult Index()
         {
-            var theLoai = _db.TheLoai.ToList();
-            ViewBag.TheLoai = theLoai;
-
+            var theloai = _db.TheLoai.ToList();
+            ViewBag.TheLoai = theloai;
             return View();
         }
 
@@ -31,16 +29,16 @@ namespace Baitap07.Controllers
         {
             if (ModelState.IsValid)
             {
-                //thêm thông tin vào bảng TheLoai
+                // Thêm thông tin vào bảng TheLoai
                 _db.TheLoai.Add(theloai);
-                //Lưu lại
+                // Lưu lại
                 _db.SaveChanges();
-                //Chuyển Trang về Index
+                // Chuyển trang về index
                 return RedirectToAction("Index");
-
             }
             return View();
         }
+
 
         [HttpGet]
         public IActionResult Edit(int id)
@@ -50,7 +48,7 @@ namespace Baitap07.Controllers
                 return NotFound();
             }
             var theloai = _db.TheLoai.Find(id);
-            return View();
+            return View(theloai);
         }
 
         [HttpPost]
@@ -58,13 +56,12 @@ namespace Baitap07.Controllers
         {
             if (ModelState.IsValid)
             {
-                //thêm thông tin vào bảng TheLoai
+                // Thêm thông tin vào bảng TheLoai
                 _db.TheLoai.Update(theloai);
-                //Lưu lại
+                // Lưu lại
                 _db.SaveChanges();
-                //Chuyển Trang về Index
+                // Chuyển trang về index
                 return RedirectToAction("Index");
-
             }
             return View();
         }
@@ -91,36 +88,6 @@ namespace Baitap07.Controllers
             _db.TheLoai.Remove(theloai);
             _db.SaveChanges();
             return RedirectToAction("Index");
-        }
-
-        [HttpGet]
-        public IActionResult Detail(int id)
-        {
-            if (id == 0)
-            {
-                return NotFound();
-            }
-            var theloai = _db.TheLoai.Find(id);
-            return View(theloai);
-        }
-        [HttpGet]
-        public IActionResult Search(string searchString)
-        {
-            if (!string.IsNullOrEmpty(searchString))
-            {
-                //Sử dụng LINQ để tìm kiếm
-                var theloai = _db.TheLoai
-                    .Where(tl => tl.Name == (searchString))
-                    .ToList();
-                ViewBag.TheLoai = theloai;
-                ViewBag.SearchString = searchString;
-            }
-            else
-            {
-                var theloai = _db.TheLoai.ToList();
-                ViewBag.TheLoai = theloai;
-            }
-            return View("Index"); //Sử dụng lại View Index
         }
     }
 }
