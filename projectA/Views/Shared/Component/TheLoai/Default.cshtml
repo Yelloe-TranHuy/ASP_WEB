@@ -1,0 +1,10 @@
+﻿@model IEnumerable<TheLoai>
+<li>
+    <a href="#" class=" sf-with-url">Categories</a>
+    <ul>
+        @foreach (var item in Model)
+        {
+            <li><a href="#">@item.Name</a></li>
+        }
+    </ul>
+</li>

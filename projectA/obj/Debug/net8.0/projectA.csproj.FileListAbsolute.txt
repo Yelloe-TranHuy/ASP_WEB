@@ -106,8 +106,6 @@ D:\Nam 3\Git Push\asp_web\projectA\bin\Debug\net8.0\refs\Microsoft.Extensions.Co
 D:\Nam 3\Git Push\asp_web\projectA\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
 D:\Nam 3\Git Push\asp_web\projectA\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
 D:\Nam 3\Git Push\asp_web\projectA\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
-D:\Nam 3\Git Push\asp_web\projectA\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\Nam 3\Git Push\asp_web\projectA\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.dll
 D:\Nam 3\Git Push\asp_web\projectA\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
 D:\Nam 3\Git Push\asp_web\projectA\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
 D:\Nam 3\Git Push\asp_web\projectA\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
@@ -564,3 +562,5 @@ D:\Nam 3\Git Push\asp_web\projectA\obj\Debug\net8.0\refint\projectA.dll
 D:\Nam 3\Git Push\asp_web\projectA\obj\Debug\net8.0\projectA.pdb
 D:\Nam 3\Git Push\asp_web\projectA\obj\Debug\net8.0\projectA.genruntimeconfig.cache
 D:\Nam 3\Git Push\asp_web\projectA\obj\Debug\net8.0\ref\projectA.dll
+D:\Nam 3\Git Push\asp_web\projectA\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Nam 3\Git Push\asp_web\projectA\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
