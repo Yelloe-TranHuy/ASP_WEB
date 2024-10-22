@@ -53,6 +53,10 @@
       "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
+      "Id": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\wwwroot\\images\\private_background.gif",
+      "PackagePath": "staticwebassets\\images\\private_background.gif"
+    },
+    {
       "Id": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

@@ -3,16 +3,56 @@
   "WorkspaceRootPath": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\wwwroot\\images\\logo.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
-      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\wwwroot\\images\\logo.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\admin\\views\\contact\\thankyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\areas\\admin\\views\\contact\\thankyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\admin\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\areas\\admin\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\admin\\views\\sanpham\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\areas\\admin\\views\\sanpham\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\admin\\views\\theloai\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\areas\\admin\\views\\theloai\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\admin\\views\\theloai\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\areas\\admin\\views\\theloai\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\admin\\views\\theloai\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\areas\\admin\\views\\theloai\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\admin\\views\\theloai\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\areas\\admin\\views\\theloai\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\admin\\views\\admin\\tintuc1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\areas\\admin\\views\\admin\\tintuc1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\admin\\views\\admin\\tintuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\areas\\admin\\views\\admin\\tintuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\admin\\views\\admin\\riengtu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\areas\\admin\\views\\admin\\riengtu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\admin\\views\\admin\\gioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\areas\\admin\\views\\admin\\gioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\admin\\views\\admin\\chinhsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\areas\\admin\\views\\admin\\chinhsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\admin\\views\\theloai\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\areas\\admin\\views\\theloai\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,48 +63,104 @@
       "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\areas\\customer\\views\\home\\lienhe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\identity\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\areas\\identity\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\viewcomponents\\theloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\viewcomponents\\theloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\wwwroot\\images\\logo.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\wwwroot\\images\\logo.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\views\\shared\\components\\theloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\views\\shared\\components\\theloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\admin\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\areas\\admin\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\admin\\views\\theloai\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\areas\\admin\\views\\theloai\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\admin\\views\\theloai\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\areas\\admin\\views\\theloai\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\admin\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\areas\\admin\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\admin\\views\\admin\\tintuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\areas\\admin\\views\\admin\\tintuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\admin\\views\\admin\\tintuc1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\areas\\admin\\views\\admin\\tintuc1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\admin\\views\\admin\\riengtu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\areas\\admin\\views\\admin\\riengtu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\admin\\views\\admin\\gioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\areas\\admin\\views\\admin\\gioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\wwwroot\\images\\hinh1.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
@@ -95,32 +191,8 @@
       "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\wwwroot\\images\\background-tintuc1.jpeg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\data\\migrations\\20241021052003_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\data\\migrations\\20241021052003_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\views\\shared\\components\\theloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\views\\shared\\components\\theloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\viewcomponents\\theloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\viewcomponents\\theloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -129,10 +201,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|solutionrelative:project_a\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62B305CB-CAB2-4CF4-96D8-328573D43C7D}|Project_A\\Project_A.csproj|d:\\nam 3\\git push\\asp_web\\project_a\\project_a\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -146,8 +214,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThankYou.cshtml",
+              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\Contact\\ThankYou.cshtml",
+              "RelativeDocumentMoniker": "Project_A\\Areas\\Admin\\Views\\Contact\\ThankYou.cshtml",
+              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\Contact\\ThankYou.cshtml",
+              "RelativeToolTip": "Project_A\\Areas\\Admin\\Views\\Contact\\ThankYou.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T03:58:21.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project_A\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
+              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
+              "RelativeToolTip": "Project_A\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T03:57:53.044Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -159,110 +253,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\TheLoai\\Create.cshtml",
-              "RelativeDocumentMoniker": "Project_A\\Areas\\Admin\\Views\\TheLoai\\Create.cshtml",
-              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\TheLoai\\Create.cshtml",
-              "RelativeToolTip": "Project_A\\Areas\\Admin\\Views\\TheLoai\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\SanPham\\Details.cshtml",
+              "RelativeDocumentMoniker": "Project_A\\Areas\\Admin\\Views\\SanPham\\Details.cshtml",
+              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\SanPham\\Details.cshtml",
+              "RelativeToolTip": "Project_A\\Areas\\Admin\\Views\\SanPham\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T05:38:28.847Z",
+              "WhenOpened": "2024-10-22T03:54:19.935Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Project_A\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Project_A\\Views\\Home\\Privacy.cshtml",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\TheLoai\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Project_A\\Areas\\Admin\\Views\\TheLoai\\Delete.cshtml",
+              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\TheLoai\\Delete.cshtml",
+              "RelativeToolTip": "Project_A\\Areas\\Admin\\Views\\TheLoai\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T05:37:21.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\TheLoai\\Detail.cshtml",
-              "RelativeDocumentMoniker": "Project_A\\Areas\\Admin\\Views\\TheLoai\\Detail.cshtml",
-              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\TheLoai\\Detail.cshtml",
-              "RelativeToolTip": "Project_A\\Areas\\Admin\\Views\\TheLoai\\Detail.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T05:37:03.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\TheLoai\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Project_A\\Areas\\Admin\\Views\\TheLoai\\Edit.cshtml",
-              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\TheLoai\\Edit.cshtml",
-              "RelativeToolTip": "Project_A\\Areas\\Admin\\Views\\TheLoai\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T05:37:02.211Z",
+              "WhenOpened": "2024-10-22T03:54:05.791Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\TheLoai\\Index.cshtml",
-              "RelativeDocumentMoniker": "Project_A\\Areas\\Admin\\Views\\TheLoai\\Index.cshtml",
-              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\TheLoai\\Index.cshtml",
-              "RelativeToolTip": "Project_A\\Areas\\Admin\\Views\\TheLoai\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T05:36:54.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TinTuc.cshtml",
-              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\Admin\\TinTuc.cshtml",
-              "RelativeDocumentMoniker": "Project_A\\Areas\\Admin\\Views\\Admin\\TinTuc.cshtml",
-              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\Admin\\TinTuc.cshtml",
-              "RelativeToolTip": "Project_A\\Areas\\Admin\\Views\\Admin\\TinTuc.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T05:35:38.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "RiengTu.cshtml",
-              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\Admin\\RiengTu.cshtml",
-              "RelativeDocumentMoniker": "Project_A\\Areas\\Admin\\Views\\Admin\\RiengTu.cshtml",
-              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\Admin\\RiengTu.cshtml",
-              "RelativeToolTip": "Project_A\\Areas\\Admin\\Views\\Admin\\RiengTu.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T05:35:35.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "ChinhSach.cshtml",
               "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\Admin\\ChinhSach.cshtml",
               "RelativeDocumentMoniker": "Project_A\\Areas\\Admin\\Views\\Admin\\ChinhSach.cshtml",
               "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\Admin\\ChinhSach.cshtml",
               "RelativeToolTip": "Project_A\\Areas\\Admin\\Views\\Admin\\ChinhSach.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-21T05:35:35.231Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 10,
               "Title": "GioiThieu.cshtml",
               "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\Admin\\GioiThieu.cshtml",
               "RelativeDocumentMoniker": "Project_A\\Areas\\Admin\\Views\\Admin\\GioiThieu.cshtml",
@@ -275,7 +304,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 9,
+              "Title": "RiengTu.cshtml",
+              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\Admin\\RiengTu.cshtml",
+              "RelativeDocumentMoniker": "Project_A\\Areas\\Admin\\Views\\Admin\\RiengTu.cshtml",
+              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\Admin\\RiengTu.cshtml",
+              "RelativeToolTip": "Project_A\\Areas\\Admin\\Views\\Admin\\RiengTu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T05:35:35.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TinTuc.cshtml",
+              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\Admin\\TinTuc.cshtml",
+              "RelativeDocumentMoniker": "Project_A\\Areas\\Admin\\Views\\Admin\\TinTuc.cshtml",
+              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\Admin\\TinTuc.cshtml",
+              "RelativeToolTip": "Project_A\\Areas\\Admin\\Views\\Admin\\TinTuc.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T05:35:38.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "TinTuc1.cshtml",
               "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\Admin\\TinTuc1.cshtml",
               "RelativeDocumentMoniker": "Project_A\\Areas\\Admin\\Views\\Admin\\TinTuc1.cshtml",
@@ -289,31 +344,282 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\TheLoai\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Project_A\\Areas\\Admin\\Views\\TheLoai\\Detail.cshtml",
+              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\TheLoai\\Detail.cshtml",
+              "RelativeToolTip": "Project_A\\Areas\\Admin\\Views\\TheLoai\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T05:37:03.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\TheLoai\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Project_A\\Areas\\Admin\\Views\\TheLoai\\Edit.cshtml",
+              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\TheLoai\\Edit.cshtml",
+              "RelativeToolTip": "Project_A\\Areas\\Admin\\Views\\TheLoai\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T05:37:02.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project_A\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Project_A\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T05:29:01.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Project_A\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Project_A\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAhwB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T21:08:51.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\TheLoai\\Create.cshtml",
+              "RelativeDocumentMoniker": "Project_A\\Areas\\Admin\\Views\\TheLoai\\Create.cshtml",
+              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\TheLoai\\Create.cshtml",
+              "RelativeToolTip": "Project_A\\Areas\\Admin\\Views\\TheLoai\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T05:38:28.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Project_A\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Project_A\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T05:41:25.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Project_A\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Project_A\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T05:41:29.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Project_A\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Project_A\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T05:41:34.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Project_A\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Project_A\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T05:41:36.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Project_A\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Project_A\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T05:42:21.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Project_A\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Project_A\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-21T05:44:53.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Project_A\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Project_A\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:22:26.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Identity\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Project_A\\Areas\\Identity\\Pages\\Error.cshtml",
+              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Identity\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Project_A\\Areas\\Identity\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T03:09:07.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Project_A\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Project_A\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T05:41:22.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Project_A\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Project_A\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T05:41:16.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TheLoaiController.cs",
+              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Controllers\\TheLoaiController.cs",
+              "RelativeDocumentMoniker": "Project_A\\Areas\\Admin\\Controllers\\TheLoaiController.cs",
+              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Controllers\\TheLoaiController.cs",
+              "RelativeToolTip": "Project_A\\Areas\\Admin\\Controllers\\TheLoaiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T05:41:10.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "Project_A\\wwwroot\\favicon.ico",
+              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "Project_A\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-10-21T05:41:07.433Z",
+              "EditorCaption": " - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Project_A\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Project_A\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-21T05:41:02.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Project_A\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Project_A\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T05:37:21.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\TheLoai\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project_A\\Areas\\Admin\\Views\\TheLoai\\Index.cshtml",
+              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\TheLoai\\Index.cshtml",
+              "RelativeToolTip": "Project_A\\Areas\\Admin\\Views\\TheLoai\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T05:36:54.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "LienHe.cshtml",
               "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Customer\\Views\\Home\\LienHe.cshtml",
               "RelativeDocumentMoniker": "Project_A\\Areas\\Customer\\Views\\Home\\LienHe.cshtml",
               "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Customer\\Views\\Home\\LienHe.cshtml",
               "RelativeToolTip": "Project_A\\Areas\\Customer\\Views\\Home\\LienHe.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACwAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-21T05:35:26.586Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 28,
               "Title": "logo.png",
               "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\wwwroot\\images\\logo.png",
               "RelativeDocumentMoniker": "Project_A\\wwwroot\\images\\logo.png",
               "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\wwwroot\\images\\logo.png",
               "RelativeToolTip": "Project_A\\wwwroot\\images\\logo.png",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-10-21T05:34:40.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T05:34:40.467Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 42,
               "Title": "anh-tintuc1.jpg",
               "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\wwwroot\\images\\anh-tintuc1.jpg",
               "RelativeDocumentMoniker": "Project_A\\wwwroot\\images\\anh-tintuc1.jpg",
@@ -324,7 +630,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 43,
               "Title": "background.jpeg",
               "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\wwwroot\\images\\background.jpeg",
               "RelativeDocumentMoniker": "Project_A\\wwwroot\\images\\background.jpeg",
@@ -335,7 +641,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 44,
               "Title": "background-chinhsach.jpeg",
               "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\wwwroot\\images\\background-chinhsach.jpeg",
               "RelativeDocumentMoniker": "Project_A\\wwwroot\\images\\background-chinhsach.jpeg",
@@ -346,7 +652,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 45,
               "Title": "background-introduction.jpeg",
               "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\wwwroot\\images\\background-introduction.jpeg",
               "RelativeDocumentMoniker": "Project_A\\wwwroot\\images\\background-introduction.jpeg",
@@ -357,7 +663,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 46,
               "Title": "background-tintuc1.jpeg",
               "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\wwwroot\\images\\background-tintuc1.jpeg",
               "RelativeDocumentMoniker": "Project_A\\wwwroot\\images\\background-tintuc1.jpeg",
@@ -368,7 +674,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 40,
               "Title": "hinh1.jpg",
               "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\wwwroot\\images\\hinh1.jpg",
               "RelativeDocumentMoniker": "Project_A\\wwwroot\\images\\hinh1.jpg",
@@ -379,7 +685,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 41,
               "Title": "anh-tintuc.jpg",
               "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\wwwroot\\images\\anh-tintuc.jpg",
               "RelativeDocumentMoniker": "Project_A\\wwwroot\\images\\anh-tintuc.jpg",
@@ -390,33 +696,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Project_A\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Project_A\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T05:29:01.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Project_A\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Project_A\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-21T05:27:45.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 47,
               "Title": "20241021052003_3.cs",
               "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Data\\Migrations\\20241021052003_3.cs",
               "RelativeDocumentMoniker": "Project_A\\Data\\Migrations\\20241021052003_3.cs",
@@ -428,31 +721,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\appsettings.json",
               "RelativeDocumentMoniker": "Project_A\\appsettings.json",
               "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\appsettings.json",
               "RelativeToolTip": "Project_A\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-10-21T02:59:56.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Customer\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Project_A\\Areas\\Customer\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Customer\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Project_A\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAkwDAAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T20:56:25.611Z"
+              "WhenOpened": "2024-10-20T20:56:25.611Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 35,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Project_A\\Views\\_ViewImports.cshtml",
@@ -460,12 +754,11 @@
               "RelativeToolTip": "Project_A\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-20T19:06:02.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-20T19:06:02.106Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "Default.cshtml",
               "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Views\\Shared\\Components\\TheLoai\\Default.cshtml",
               "RelativeDocumentMoniker": "Project_A\\Views\\Shared\\Components\\TheLoai\\Default.cshtml",
@@ -477,7 +770,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 24,
               "Title": "TheLoaiViewComponent.cs",
               "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\ViewComponents\\TheLoaiViewComponent.cs",
               "RelativeDocumentMoniker": "Project_A\\ViewComponents\\TheLoaiViewComponent.cs",
@@ -485,11 +778,12 @@
               "RelativeToolTip": "Project_A\\ViewComponents\\TheLoaiViewComponent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T18:58:06.181Z"
+              "WhenOpened": "2024-10-20T18:58:06.181Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Program.cs",
               "RelativeDocumentMoniker": "Project_A\\Program.cs",
@@ -501,7 +795,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 48,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Project_A\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -513,32 +807,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "RelativeDocumentMoniker": "Project_A\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "RelativeToolTip": "Project_A\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T21:08:51.581Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 19,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Project_A\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Project_A\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAACcAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T19:55:16.017Z"
+              "WhenOpened": "2024-10-13T19:55:16.017Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 50,
               "Title": "Register.cshtml",
               "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Project_A\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
@@ -550,7 +832,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 49,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "Project_A\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
@@ -562,15 +844,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 18,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "Project_A\\Views\\Shared\\_LoginPartial.cshtml",
               "ToolTip": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeToolTip": "Project_A\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-07T02:43:02.917Z"
+              "WhenOpened": "2024-10-07T02:43:02.917Z",
+              "EditorCaption": ""
             }
           ]
         }

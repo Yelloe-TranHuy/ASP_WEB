@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "X22h8m/Di5UepigAJZCmALO08QL6uxO+FZFjNSFTAbI=",
+  "Hash": "dQ3UfBi6RbVhKh+3oFwg/PPxElr7PkfpBmDsWE888uI=",
   "Source": "Project_A",
   "BasePath": "_content/Project_A",
   "Mode": "Default",
@@ -1421,6 +1421,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
+    },
+    {
+      "Identity": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\wwwroot\\images\\private_background.gif",
+      "SourceId": "Project_A",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\wwwroot\\",
+      "BasePath": "_content/Project_A",
+      "RelativePath": "images/private_background.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\private_background.gif"
     },
     {
       "Identity": "D:\\Nam 3\\Git Push\\asp_web\\Project_A\\Project_A\\wwwroot\\js\\site.js",
